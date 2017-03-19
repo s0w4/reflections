@@ -9,3 +9,8 @@ How is the staging area different from the working directory and the repository?
 How can you use the staging area to make sure you have one commit per logical change?
 	
 	With git add command I can add separate files to the staging area.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	
+	With branches I can work on different versions of files simultaneously.
+	Branches could help if I want to try something experimental.
