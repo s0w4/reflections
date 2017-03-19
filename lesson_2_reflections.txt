@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-I need to initialize repository to start tracking changes in my files.
+	I need to initialize repository to start tracking changes in my files.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	
+	Staging area holds changes to be commited. Working directory conatins all the data, and repository contains all the tracking of working directoty's content.
