@@ -24,7 +24,10 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    It will be easier if all team members will have a group chat and
+    everyone could be notified about each others stage. Better if one person
+    could work with particular file or folder. It will be hard to find a bug
+    if there were a lot of changes made without notifications.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
