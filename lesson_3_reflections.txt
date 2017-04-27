@@ -32,4 +32,6 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    If the team is working on a project and I want to try experimental feature,
+    then I will make a branch for it. So it will not affect other members workflow.
+    And during straightforward workflow I will change just the master without branches.
